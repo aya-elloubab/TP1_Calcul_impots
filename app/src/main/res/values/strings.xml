@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcul Impots</string>
+    <string name="calcul_des_impots_locaux">Calcul des impots locaux:</string>
+    <string name="nom">Nom :</string>
+    <string name="adress">Adress :</string>
+    <string name="surface">Surface :</string>
+    <string name="nombre_de_pi_ces">Nombre de pièces :</string>
+    <string name="piscine">Piscine</string>
+    <string name="calcul">Calcul</string>
+</resources>
